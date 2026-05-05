@@ -1,8 +1,8 @@
-# Blueprint: Libraria - Tu Biblioteca
+# Blueprint: Libreria - Tu Biblioteca
 
 ## Visión General
 
-"Libraria" es una aplicación de gestión de bibliotecas personales desarrollada en Flutter y Firebase. Permite a los usuarios registrarse e iniciar sesión de forma segura para administrar su colección. La aplicación, completamente en **español**, ha sido rediseñada con una interfaz de usuario **elegante, exótica y formal**, utilizando un tema claro con acentos de color distintivos para una experiencia moderna y sofisticada.
+"Libreria" es una aplicación de gestión de bibliotecas personales desarrollada en Flutter y Firebase. Permite a los usuarios registrarse e iniciar sesión de forma segura para administrar su colección. La aplicación, completamente en **español**, ha sido rediseñada con una interfaz de usuario **elegante, exótica y formal**, utilizando un tema claro con acentos de color distintivos para una experiencia moderna y sofisticada.
 
 ---
 
